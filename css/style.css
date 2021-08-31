@@ -279,6 +279,10 @@ section {
     padding-top: 1rem;
 }
 
+.about .content a .btn {
+    justify-content: space-between;
+    padding: 1.5rem;
+}
 
 .portfolio .box-container {
     display: grid;
