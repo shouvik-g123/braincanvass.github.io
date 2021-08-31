@@ -278,6 +278,12 @@ section {
     font-size: 1.6rem;
     padding-top: 1rem;
 }
+.row row-1 .time .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 .portfolio .box-container {
     display: grid;
