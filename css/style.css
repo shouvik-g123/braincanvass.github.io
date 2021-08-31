@@ -280,7 +280,6 @@ section {
 }
 
 
-
 .portfolio .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
