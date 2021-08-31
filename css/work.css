@@ -117,6 +117,18 @@ body {
     font-size: 25px;
     transform: translateX(-50%);
 }
+.row-1 .time img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.row-2 .time img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
 
 .row-1 section .icon {
     top: 15px;
