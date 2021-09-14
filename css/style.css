@@ -242,10 +242,11 @@ section {
 }
 
 .about .row .content p {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: var(--light-color);
-    line-height: 1.8;
+    line-height: 1.9;
     padding: 1rem 0;
+    text-align: center; 
 }
 
 .about .row .content .icons-container {
